@@ -1,0 +1,11 @@
+.producto {
+    width: 250px;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.carrito {
+    display: flex;
+}
